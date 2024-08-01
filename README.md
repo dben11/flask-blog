@@ -4,9 +4,9 @@
 │   ├── errors
 │   │   ├── handlers.py
 │   │   ├── __init__.py
-│   │   └── __pycache__
-│   │       ├── handlers.cpython-310.pyc
-│   │       └── __init__.cpython-310.pyc
+│   │   
+│   │     
+│   │    
 │   ├── __init__.py
 │   ├── main
 │   │   ├── __init__.py
